@@ -1,0 +1,7 @@
+{
+    "tableName": "ProProfile",
+    "partitionKeyName": "email",
+    "partitionKeyType": "S",
+    "sortKeyName": "createdate",
+    "sortKeyType": "S"
+}

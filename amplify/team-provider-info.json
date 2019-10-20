@@ -1,0 +1,19 @@
+{
+    "iontimeenv": {
+        "awscloudformation": {
+            "AuthRoleName": "iontime-iontimeenv-20191020144241-authRole",
+            "UnauthRoleArn": "arn:aws:iam::260267610061:role/iontime-iontimeenv-20191020144241-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::260267610061:role/iontime-iontimeenv-20191020144241-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "iontime-iontimeenv-20191020144241-deployment",
+            "UnauthRoleName": "iontime-iontimeenv-20191020144241-unauthRole",
+            "StackName": "iontime-iontimeenv-20191020144241",
+            "StackId": "arn:aws:cloudformation:us-east-2:260267610061:stack/iontime-iontimeenv-20191020144241/66632500-f369-11e9-be93-066dd16eed5a"
+        },
+        "categories": {
+            "auth": {
+                "iontimee723cb55": {}
+            }
+        }
+    }
+}
